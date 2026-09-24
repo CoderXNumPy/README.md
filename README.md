@@ -4,8 +4,8 @@ I am 12.5 years old and I am learning Rust. I practice coding for 13 minutes dai
 
 ## My Projects
 
-- **calculator.rs** — ...
-- **player.rs** — ...
+- **calculator.rs** — Basic calculator (+, -, *, /) with error handling using `match`
+- **player.rs** — Player struct with HP, heal, damage, and status methods
 - **guess_game.rs** — Number guessing game with loop and input handling
 
 ## What I'm Learning
