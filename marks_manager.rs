@@ -35,4 +35,13 @@ fn main() {
         }
     }
     println!("Topper: {}", max);
-}
+    
+    let mut min = marks[0];
+    
+    for m in &marks {
+       if *m < min {
+           min = *m;
+       }
+    }
+    println!("Lowest: {}", min);
+}  
