@@ -11,6 +11,8 @@ I am 12.5 years old and I am learning Rust. I practice coding for 13 minutes dai
 - **marks_manager.rs** — Takes 5 marks using Vec, finds sum, average, topper, and lowest
 - **even_odd.rs** — Checks if a number is even or odd using `%`
 - **weapon.rs** — Enum with Weapon types (Sword, Mace, Bow) and match
+- **battle.rs** — Turn-based battle simulator with enum weapons and struct players
+
 
 ## What I'm Learning
 
