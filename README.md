@@ -13,7 +13,7 @@ I am 12.5 years old and I am learning Rust. I practice coding for 13 minutes dai
 - **weapon.rs** — Enum with Weapon types (Sword, Mace, Bow) and match
 - **battle.rs** — Turn-based battle simulator with enum weapons and struct players
 - **bank.rs** — Bank account with deposit and withdraw methods
-
+- **multiplication_table.rs** — Prints the multiplication table of a given number
 ## What I'm Learning
 
 - Variables, functions, loops
