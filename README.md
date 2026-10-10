@@ -15,7 +15,7 @@ I am 12.5 years old and I am learning Rust. I practice coding for 13 minutes dai
 - **bank.rs** — Bank account with deposit and withdraw methods
 - **multiplication_table.rs** — Prints the multiplication table of a given number
 - **multiply.rs** — Multiplies three numbers using a function
-
+- **todo_list.rs** — A to-do list with add, show, and mark done features
 ## What I'm Learning
 
 - Variables, functions, loops
